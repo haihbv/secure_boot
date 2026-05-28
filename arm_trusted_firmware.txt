@@ -1,0 +1,10 @@
+lập trình arm trusted firmware
+
+được open source
+
+tham khảo:
+
+https://github.com/ARM-software/arm-trusted-firmware
+
+log chat: https://claude.ai/share/9b5a958b-d713-4f7a-a4c2-8dda7307f04b
+
